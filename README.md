@@ -62,7 +62,7 @@ cd neural-network
 pip install numpy
 ```
 
-## 🚀 Quick Start
+## Quick Start
 
 ```python
 from neural_network import Network, Dense, Relu, Softmax
@@ -123,7 +123,7 @@ Gradients are computed using partial derivatives:
 - **Weight gradient**: `∂E/∂W = ∂E/∂Y · X^T`
 - **Bias gradient**: `∂E/∂B = ∂E/∂Y`
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 neural-network/
