@@ -128,12 +128,13 @@ Gradients are computed using partial derivatives:
 ```
 neural-network/
 │
-├── network.py              # Main Network class
-├── test_network.py         # Training network and predicting on MNIST dataset
-├── gradient_descent.ipynb  # Non-object oriented approach to get familiar with the basics of the computation
+├── network.py                                                # Main Network class
+├── test_network.py                                           # Training network and predicting on MNIST dataset
+├── gradient_descent.ipynb                                    # Non-object oriented approach to get familiar with the basics of the computation
 ├── data
-|   ├── test.csv            # Test dataset
-|   └── train.csv           # Train dataset
+│   ├── test.csv                                              # Test dataset
+│   └── train.csv                                             # Train dataset
+├── Applications of Linear ALgebra in Neural Networks.pdf     # Full research paper
 └── README.md
 ```
 
