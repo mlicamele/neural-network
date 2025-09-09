@@ -49,6 +49,9 @@ The implementation includes detailed mathematical derivations for:
 - Python 3.7+
 - NumPy for matrix operations
 
+### Data
+- MNIST Dataset used can be found here: https://www.kaggle.com/competitions/digit-recognizer/data
+
 ### Setup
 ```bash
 # Clone the repository
@@ -171,8 +174,12 @@ This project demonstrates:
 ## Academic References
 
 This implementation is based on fundamental neural network principles detailed in:
-- Higham, C. F., & Higham, D. J. (2019). Deep learning: An introduction for applied mathematicians
+- Cano, A. (2017). A survey on graphic processing unit computing for large‐scale data mining
+- Chakrabarti, B. K. (1995). Neural networks
+- Dolson, M. (1989). Machine tongues xii: Neural networks
 - Fan, J., Ma, C., & Zhong, Y. (2021). A selective overview of deep learning
+- Higham, C. F., & Higham, D. J. (2019). Deep learning: An introduction for applied mathematicians
+- West, P. M., Brockett, P. L., & Golden, L. L. (1997). A comparative analysis of neural networks and statistical methods for predicting consumer choice
 - Zhang, C.-H. (2007). Continuous generalized gradient descent
 
 ---
