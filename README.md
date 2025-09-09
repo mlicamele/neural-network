@@ -129,7 +129,7 @@ Gradients are computed using partial derivatives:
 neural-network/
 │
 ├── network.py                                                # Main Network class
-├── test_network.py                                           # Training network and predicting on MNIST dataset
+├── test_network.ipy  nb                                         # Training network and predicting on MNIST dataset
 ├── gradient_descent.ipynb                                    # Non-object oriented approach to get familiar with the basics of the computation
 ├── data
 │   ├── test.csv                                              # Test dataset
