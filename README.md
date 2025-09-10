@@ -1,8 +1,6 @@
 # neural-network
 
-# Neural Network Implementation from Scratch
-
-A comprehensive neural network implementation built from scratch in Python for MNIST digit classification, exploring the mathematical foundations of deep learning through linear algebra and calculus.
+Project focused on exploring the computations behind neural networks by building one from scratch with only numpy and testing it with the MNIST dataset.
 
 ## Academic Project Overview
 
