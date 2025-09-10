@@ -180,7 +180,3 @@ This implementation is based on fundamental neural network principles detailed i
 - Higham, C. F., & Higham, D. J. (2019). Deep learning: An introduction for applied mathematicians
 - West, P. M., Brockett, P. L., & Golden, L. L. (1997). A comparative analysis of neural networks and statistical methods for predicting consumer choice
 - Zhang, C.-H. (2007). Continuous generalized gradient descent
-
----
-
-*This project demonstrates the beautiful intersection of mathematics and artificial intelligence, showing how linear algebra and calculus power modern machine learning.*
